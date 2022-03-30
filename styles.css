@@ -1,0 +1,11 @@
+nav{
+
+    display :flex;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+border: 2px,rgb(red, green, blue);
+justify-content: space-between;
+flex-direction: column;
+
+}
